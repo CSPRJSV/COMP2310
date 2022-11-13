@@ -1,2 +1,2 @@
-# COMP2310
-COMP2310 专业辅导
+# COMP2310 专业辅导
+# VX: csprojhelp 备注: github
